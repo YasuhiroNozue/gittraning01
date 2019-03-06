@@ -1,1 +1,3 @@
-Git�̗��K�ł��B
+Gitの練習です。
+this file is traning for GitHub.
+さらに変更を加えます。
